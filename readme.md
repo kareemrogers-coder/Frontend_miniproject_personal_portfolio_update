@@ -41,7 +41,7 @@ In this CSS-enhanced Personal Portfolio project, you'll elevate your online pres
 
     <footer>
     <h4 class="mini_bio" align="center" >
-        Embark with us on a mystical journey to explore the Sorcerer Supreme himself Dr. Stephen Strange. We will navigate the socercer supreme Bio, resume, Testimonials and Recommendation from his enemies and allies, along with a contact page if you require his services.
+        Embark with us on a mystical journey to explore the Sorcerer Supreme himself.....
     </h4>
     </footer>
 </body>
